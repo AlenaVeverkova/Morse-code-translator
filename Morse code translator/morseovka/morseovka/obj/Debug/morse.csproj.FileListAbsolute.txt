@@ -1,0 +1,8 @@
+C:\Users\Alena\Desktop\morseovka\morseovka\morseovka\bin\Debug\morseovka.exe.config
+C:\Users\Alena\Desktop\morseovka\morseovka\morseovka\bin\Debug\morseovka.exe
+C:\Users\Alena\Desktop\morseovka\morseovka\morseovka\bin\Debug\morseovka.pdb
+C:\Users\Alena\Desktop\morseovka\morseovka\morseovka\obj\Debug\morseovka.Morseovka.resources
+C:\Users\Alena\Desktop\morseovka\morseovka\morseovka\obj\Debug\morseovka.Properties.Resources.resources
+C:\Users\Alena\Desktop\morseovka\morseovka\morseovka\obj\Debug\morse.csproj.GenerateResource.Cache
+C:\Users\Alena\Desktop\morseovka\morseovka\morseovka\obj\Debug\morseovka.exe
+C:\Users\Alena\Desktop\morseovka\morseovka\morseovka\obj\Debug\morseovka.pdb
